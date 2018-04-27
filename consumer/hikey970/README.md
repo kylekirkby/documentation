@@ -1,8 +1,6 @@
 ---
-title: Using the boardname
-permalink: /documentation/consumer/hikey970/
+title: Using the Hikey970
 ---
-
 # Using the Board-x
 
 A comprehensive guide to using the Board-x Consumer Edition development board. This guide is written by the [96Boards](https://www.96boards.org) team at [Linaro](http://www.linaro.org) with community contributions and links to third-party content.

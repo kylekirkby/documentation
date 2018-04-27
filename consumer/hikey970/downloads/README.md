@@ -1,6 +1,5 @@
 ---
 title: Downloads for boardname
-permalink: /documentation/consumer/hikey970/downloads/
 ---
 
 ## Downloads

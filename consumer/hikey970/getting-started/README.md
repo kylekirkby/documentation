@@ -1,6 +1,5 @@
 ---
 title: Basic Kit  for boardname
-permalink: /documentation/consumer/hikey970/getting-started/
 ---
 
 # Getting Started

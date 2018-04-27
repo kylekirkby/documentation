@@ -1,10 +1,6 @@
-<!---
 ---
-title: Hardware User Manual for boardname
-permalink: /documentation/consumer/boardname/hardware-docs/hardware-user-manual.md.html
+title: Hardware User Manual for Hikey970
 ---
--->
-
 # Board-X Development Board User Manual
 
 ### Table of Contents

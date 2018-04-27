@@ -1,6 +1,5 @@
 ---
 title: Useful Guides for boardname
-permalink: /documentation/consumer/hikey970/guides/
 ---
 
 # Useful Guides

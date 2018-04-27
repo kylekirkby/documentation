@@ -1,6 +1,5 @@
 ---
 title: Hardware Documentation for boardname
-permalink: /documentation/consumer/hikey970/hardware-docs/
 ---
 
 # Hardware Documentation

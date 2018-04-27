@@ -1,6 +1,5 @@
 ---
-title: Support for boardname
-permalink: /documentation/consumer/hikey970/support/
+title: Support for Hikey970
 ---
 
 # Troubleshooting
