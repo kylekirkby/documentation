@@ -1,7 +1,3 @@
----
-title: Linux Host Installation for boardname
----
-
 ## Linux Host
 
 This section show how to install an operating system to your Helio X20 using the SD Card method on a Linux host computer.

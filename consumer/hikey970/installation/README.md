@@ -1,8 +1,3 @@
----
-title: Installation for boardname
-permalink: /documentation/consumer/hikey970/installation/
----
-
 # Installation
 
 Choose and install an operating system on your Board X. To appropriately follow this installation guide you will need to:

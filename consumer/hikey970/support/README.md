@@ -1,7 +1,3 @@
----
-title: Support for Hikey970
----
-
 # Troubleshooting
 
 Please take advantage of the many Board X resources available to you through 96Boards

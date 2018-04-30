@@ -1,6 +1,3 @@
----
-title: Hardware User Manual for Hikey970
----
 # Board-X Development Board User Manual
 
 ### Table of Contents

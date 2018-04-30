@@ -1,7 +1,3 @@
----
-title: Basic Kit  for boardname
----
-
 # Getting Started
 
 Learn about your Board-X board as well as how to prepare and set up for basic use
